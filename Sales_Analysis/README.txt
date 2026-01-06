@@ -40,11 +40,10 @@ Typical steps included in this project are:
 3. **Visual Insights**  
    Bar charts, line plots, and distribution graphs to support insights.
 
-4. **Key Business Insights**  
-   For example:
-   - Monthly revenue trends
-   - Best selling products
-   - Sales performance across categories
+4.## Key Insight
+- Married women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka,
+  working in IT, Healthcare, and Aviation sectors,
+  demonstrate higher purchase activity in Food, Clothing, and Electronics categories.
 
 
 ## 🚀 How to Run This Yourself
